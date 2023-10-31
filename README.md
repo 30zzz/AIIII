@@ -8,7 +8,7 @@
 •請準備一個可以使用google colab 的帳號   
 •下載提供的：AI.ipynb  
 •至小畫家畫幾張手寫的數字圖片  
-![image](https://github.com/WuShuo02746480/license-plate/blob/main/2023AI.png)
+![image](https://github.com/30zzz/AIIII/blob/main/2023AI.png)
 ![image](https://github.com/WuShuo02746480/license-plate/blob/main/2023AI1.png)
 ![image](https://github.com/WuShuo02746480/license-plate/blob/main/2023AI6.png)
 ![image](https://github.com/WuShuo02746480/license-plate/blob/main/2023AI8.png)
