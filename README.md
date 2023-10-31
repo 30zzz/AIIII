@@ -14,10 +14,7 @@
 ![image](https://github.com/30zzz/AIIII/blob/main/2023AI8.png)
 
 ## 實作方法   
-•將手寫數字圖片的圖片導入colab裡，讓他辨識是什麼數字  
-![image](https://github.com/WuShuo02746480/license-plate/blob/main/image.jpg)  
-•-  
-![image](https://github.com/WuShuo02746480/license-plate/blob/main/result.jpg)  
+•將手寫數字圖片的圖片導入colab裡，讓他辨識是什麼數字    
 ※須注意圖片路徑要更改  
 ## 參考資料
 [https://github.com/chenw7/Car-Plate-Recognition](https://blog.csdn.net/weixin_43843172/article/details/109897787?fbclid=IwAR1tHSGsvknSzCxnhn96xstTx35aNMEx0asdShr6eWbdYv0pjr0ttlui1No)https://blog.csdn.net/weixin_43843172/article/details/109897787?fbclid=IwAR1tHSGsvknSzCxnhn96xstTx35aNMEx0asdShr6eWbdYv0pjr0ttlui1No
